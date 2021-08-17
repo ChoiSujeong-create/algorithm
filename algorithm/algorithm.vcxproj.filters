@@ -39,7 +39,13 @@
     <ClCompile Include="실습1-6.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="실1c-2.c">
+    <ClCompile Include="실습1-7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습1c-2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습1-8.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

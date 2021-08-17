@@ -45,5 +45,20 @@
     <ClCompile Include="1-q11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1-q12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-q13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-q14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-q15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1-q16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
