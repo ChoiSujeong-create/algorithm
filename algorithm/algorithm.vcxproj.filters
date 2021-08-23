@@ -54,5 +54,11 @@
     <ClCompile Include="실습2-2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="실습2-3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습2-4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
